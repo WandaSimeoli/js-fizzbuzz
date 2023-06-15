@@ -3,7 +3,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-} */
-.container {
-    margin: o auto;
 }
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+} */
